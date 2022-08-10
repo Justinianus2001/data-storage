@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1
+    },
+    {
+        "id": 2
+    },
+    {
+        "id": 3
+    },
+    {
+        "id": 4
+    },
+    {
+        "id": 5
+    },
+    {
+        "id": 6,
+        "name": "Nguyen Van A",
+        "phone": "0935229074",
+        "email": "nguyenvana@gmail.com",
+        "password": "password"
+    }
+]
